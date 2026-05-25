@@ -6,9 +6,7 @@ This is not a tutorial, but rather a **proof-of-concept article** in which I wil
 
 ![Image 1](./images/esp32_nfc_meets_lora_01_600w.png)
 
-![Image 2](./images/esp32_nfc_meets_lora_04_400h.png)
-
-![Image 3](./images/esp32_nfc_meets_lora_10_400h.png)
+![Image 2](./images/esp32_nfc_meets_lora_04_400h.png) ![Image 3](./images/esp32_nfc_meets_lora_10_400h.png) ![Image 3](./images/esp32_nfc_meets_lora_06_400h.png)
 
 ## Development Environment (Arduino)
 ````plaintext
